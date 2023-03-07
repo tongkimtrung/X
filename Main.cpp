@@ -1,10 +1,9 @@
 #include <iostream>
 using namespace std;
-void sap_xep()
+void tim_max()
 {
- return;
 }
 int main()
 {
- cout << "First commit" << endl;
+cout << "First commit" << endl;
 }
